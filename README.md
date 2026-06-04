@@ -11,7 +11,3 @@ The framework separates the processing mechanics from the information routing:
 
 Because `W_msg` is universally shared, agents can eventually transmit vectors to one another without mutations turning their messages into gibberish. They adapt entirely by changing **where** data flows—organically building internal memory loops, delay lines, and logic filters out of a fixed set of operations.
 
-## Roadmap
-
-* **Inter-Agent Messaging:** Dynamic k-NN spatial edge generation for direct agent-to-agent vector broadcasting.
-* **Topological Crossover:** Innovation tracking to safely blend distinct graph structures.
