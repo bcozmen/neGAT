@@ -183,7 +183,7 @@ class PhysicsEngine(nn.Module):
         freq_reward = 0.2 - (y_distance_error * 2.0)
         freq_reward = torch.clamp(freq_reward, -0.20, 0.20)
 
-        ring_rewerd = torch.where(x_mask > 0, 0.05, -0.15)
+        ring_rewerd = torch.where(x_mask > 0, 0.1, -0.15)
         
         # Combine ecology constraints PLUS the new density penalty
         energy_change = freq_reward + ring_rewerd - 0.1 - density_penalty 

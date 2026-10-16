@@ -1,0 +1,114 @@
+[I 2026-10-16 11:41:20.637 ServerApp] Extension package panel.io.jupyter_server_extension took 0.6746s to import
+[I 2026-10-16 11:41:20.637 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-16 11:41:20.639 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-16 11:41:20.641 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-16 11:41:20.642 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-16 11:41:21.030 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-16 11:41:21.030 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2026-10-16 11:41:21.041 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-16 11:41:21.041 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-16 11:41:21.042 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-16 11:41:21.043 LabApp] JupyterLab extension loaded from /home/baris/anaconda3/lib/python3.13/site-packages/jupyterlab
+[I 2026-10-16 11:41:21.043 LabApp] JupyterLab application directory is /home/baris/anaconda3/share/jupyter/lab
+[I 2026-10-16 11:41:21.046 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-16 11:41:21.082 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-16 11:41:21.084 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-16 11:41:21.084 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2026-10-16 11:41:21.084 ServerApp] Serving notebooks from local directory: /home/baris/neGAT
+[I 2026-10-16 11:41:21.085 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2026-10-16 11:41:21.085 ServerApp] http://localhost:8888/tree
+[I 2026-10-16 11:41:21.085 ServerApp]     http://127.0.0.1:8888/tree
+[I 2026-10-16 11:41:21.085 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2026-10-16 11:41:21.086 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2026-10-16 11:41:21.149 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-16 11:41:21.470 ServerApp] 302 GET / (@::1) 0.24ms
+[C 2026-10-16 11:51:58.204 ServerApp] received signal 15, stopping
+[I 2026-10-16 11:51:58.205 ServerApp] Shutting down 6 extensions
+[I 2026-10-16 11:52:01.595 ServerApp] Extension package panel.io.jupyter_server_extension took 0.3242s to import
+[I 2026-10-16 11:52:01.595 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-16 11:52:01.596 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-16 11:52:01.598 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-16 11:52:01.600 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-16 11:52:01.724 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-16 11:52:01.724 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2026-10-16 11:52:01.730 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-16 11:52:01.731 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-16 11:52:01.732 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-16 11:52:01.732 LabApp] JupyterLab extension loaded from /home/baris/anaconda3/lib/python3.13/site-packages/jupyterlab
+[I 2026-10-16 11:52:01.732 LabApp] JupyterLab application directory is /home/baris/anaconda3/share/jupyter/lab
+[I 2026-10-16 11:52:01.732 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-16 11:52:01.754 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-16 11:52:01.755 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-16 11:52:01.755 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2026-10-16 11:52:01.756 ServerApp] Serving notebooks from local directory: /home/baris/neGAT
+[I 2026-10-16 11:52:01.756 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2026-10-16 11:52:01.756 ServerApp] http://localhost:8888/tree
+[I 2026-10-16 11:52:01.756 ServerApp]     http://127.0.0.1:8888/tree
+[I 2026-10-16 11:52:01.756 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2026-10-16 11:52:01.856 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-10-16 11:52:04.317 ServerApp] Notebook example.ipynb is not trusted
+[W 2026-10-16 11:52:09.209 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 11:52:10.762 ServerApp] Kernel started: 7b5e4c87-c6b9-4b81-ad34-86bd6a8422ce
+[I 2026-10-16 11:52:11.862 ServerApp] Connecting to kernel 7b5e4c87-c6b9-4b81-ad34-86bd6a8422ce.
+[W 2026-10-16 11:52:11.862 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-16 11:52:14.982 ServerApp] Connecting to kernel 7b5e4c87-c6b9-4b81-ad34-86bd6a8422ce.
+[I 2026-10-16 11:54:11.153 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 11:54:11.154 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 11:54:23.937 ServerApp] Connecting to kernel 7b5e4c87-c6b9-4b81-ad34-86bd6a8422ce.
+[I 2026-10-16 11:54:33.951 ServerApp] Kernel started: e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135
+[I 2026-10-16 11:54:33.952 ServerApp] Kernel shutdown: 7b5e4c87-c6b9-4b81-ad34-86bd6a8422ce
+[I 2026-10-16 11:54:34.740 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 11:54:34.975 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 11:56:12.566 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 11:56:12.566 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:02:26.518 ServerApp] Kernel restarted: e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135
+[I 2026-10-16 12:02:26.733 ServerApp] Starting buffering for e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135:3025b5f9-1462-4bf6-8654-3606634822fb
+[I 2026-10-16 12:02:26.818 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 12:02:26.818 ServerApp] Restoring connection for e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135:3025b5f9-1462-4bf6-8654-3606634822fb
+[I 2026-10-16 12:03:50.444 ServerApp] Kernel interrupted: e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135
+[I 2026-10-16 12:04:14.716 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:04:14.716 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:06:15.587 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:06:15.587 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:06:22.445 ServerApp] Kernel restarted: e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135
+[I 2026-10-16 12:06:22.535 ServerApp] Starting buffering for e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135:3025b5f9-1462-4bf6-8654-3606634822fb
+[I 2026-10-16 12:06:22.694 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 12:06:22.694 ServerApp] Restoring connection for e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135:3025b5f9-1462-4bf6-8654-3606634822fb
+[I 2026-10-16 12:07:59.376 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 12:08:16.091 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:08:16.091 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:10:16.604 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:10:16.604 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:14:18.737 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:14:18.737 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:16:15.794 ServerApp] Kernel restarted: e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135
+[I 2026-10-16 12:16:16.035 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 12:16:19.405 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:16:19.405 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:16:50.011 ServerApp] Kernel restarted: e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135
+[I 2026-10-16 12:16:50.248 ServerApp] Connecting to kernel e1b8e7c5-6b18-4b3c-8fbe-cbe22858e135.
+[I 2026-10-16 12:18:20.295 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:18:20.295 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:22:22.466 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:22:22.467 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:24:23.189 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:24:23.189 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:26:24.041 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:26:24.041 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:28:25.131 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:28:25.131 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:30:26.597 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:30:26.597 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:32:28.158 ServerApp] Saving file at /example.ipynb
+[W 2026-10-16 12:32:28.159 ServerApp] Notebook example.ipynb is not trusted
+[I 2026-10-16 12:34:29.037 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:36:30.129 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:38:32.311 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:40:34.124 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:42:35.932 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:46:37.783 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:48:38.837 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:50:40.506 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:51:20.618 ServerApp] Saving file at /example.ipynb
+[I 2026-10-16 12:51:21.722 ServerApp] Saving file at /example.ipynb
